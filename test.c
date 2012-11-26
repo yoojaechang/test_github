@@ -2,5 +2,6 @@
 
 int main() {
   // Do nothing.
+  // Do something else.
   return 0;
 }
